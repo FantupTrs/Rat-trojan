@@ -13,6 +13,6 @@ Preparation:
    - Enter the command: `pip install -r requirements.txt`
    - Press enter
 
-Run the file:
+Run the file:\n
   Recommend using a virtual machine.
   Either double click the file or use the command: `python trojan.py`
