@@ -1,10 +1,10 @@
-# Rat-trojan
-This is a open-source RAT Trojan created by Tran Minh Tuan
+# Rat
+This is a open-source RAT created by Tran Minh Tuan
 
 WARNING: This file will harm the device that ran, use it at your own risk
 Do NOT use this for any malicious purposes, this is only educational-purposes only and let you see how easy it is to RAT someone and being RAT
 
-Trojan 1.0.0
+RAT 1.0.0
 Feature:
 - Auto startup
 - Grab ip detail
