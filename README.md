@@ -1,8 +1,11 @@
 # Rat
-This is a open-source RAT created by Tran Minh Tuan
+This is an open-source RAT created by Tran Minh Tuan
 
 WARNING: This file will harm the device that ran, use it at your own risk
 Do NOT use this for any malicious purposes, this is only educational-purposes only and let you see how easy it is to RAT someone and being RAT
+
+Credit:
+- https://github.com/ohyicong/decrypt-chrome-passwords
 
 RAT 1.0.0
 Feature:
