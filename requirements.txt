@@ -1,0 +1,12 @@
+os
+discord_webhook
+requests
+shutil
+re
+json
+base64
+sqlite3
+win32crypt
+Cryptodome.Cipher import AES
+shutil
+csv
